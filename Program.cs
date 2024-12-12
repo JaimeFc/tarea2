@@ -3,4 +3,4 @@ Console.WriteLine("Hello, JAIME!");
 
 
  Cuadrado figura1 = new Cuadrado(5,5);
- Console.WriteLine("El Area del Cuadrado es: " + figura1.Area());
+ Console.WriteLine("El Area del Cuadrado de 5 * 5 es: " + figura1.Area());
