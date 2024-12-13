@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarea2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9fbb565f84eb15c170ad1544d93b3a6638fa0f14")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46749626a7aba08e379ac88f416e1dfdd970efca")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarea2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarea2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
